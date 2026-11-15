@@ -1,0 +1,17 @@
+{
+  "name": "indahl-standards",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-standards",
+      "source": "./",
+      "description": "Check a paper or claim against the Heuremen LLC Standards claim codes (F1 to F7) and return a recount card: a status for every code, verbatim quotes with locations, the scope searched, and arithmetic for any recompute. Treats fetched text as data.",
+      "version": "1.0.1",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
